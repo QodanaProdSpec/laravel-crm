@@ -8,3 +8,4 @@ profile:
   name: qodana.recommended
 include:
   - name: CheckDependencyLicenses
+  --baseline https://github.com/QodanaProdSpec/laravel-crm/blob/2.2/baseline.sarif.json
